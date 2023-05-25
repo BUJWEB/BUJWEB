@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hi)
 </div>
-<a href="https://www.figma.com/login" target="_blank"><img src="https://img.shields.io/badge/Figma-#6666FF?style=for-the-badge&logo=#F24E1E&logoColor=#9966CC"/></a>
+<a href="https://www.figma.com/login" target="_blank"><img src="https://img.shields.ioC//badge/Figma-#6666FF?style=for-the-badge&logo=file:///C:/Users/User/Downloads/figma.svg&logoColor=#9966C"></a>
